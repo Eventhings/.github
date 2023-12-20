@@ -1,4 +1,5 @@
-# Eventh!ngs Bangkit Academy Capstone Team
+<h1 align="center">CH2-PS054 | Eventh!ngs Bangkit Academy Capstone Team</h1>
+<h3 align="center">SME/UMKM Empowerement</h3>
 
 <p align="center">
 <img width="1542" alt="image" src="https://github.com/Eventhings/.github/assets/28957554/d7491133-25ea-4616-8aa6-2e4003f39802">
