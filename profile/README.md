@@ -1,7 +1,7 @@
 # Eventh!ngs Bangkit Academy Capstone Team
 
 <p align="center">
-   <img src="https://github.com/Eventhings/backend-eventhings/assets/28957554/583ae431-25da-4796-8689-7fb1aba2a11d" width="500px"/>
+<img width="1542" alt="image" src="https://github.com/Eventhings/.github/assets/28957554/d7491133-25ea-4616-8aa6-2e4003f39802">
 </p>
 
 Hello everyone, welcome Eventh!ngs Bagkit Academy 2023 Batch 2 Product Repository.
