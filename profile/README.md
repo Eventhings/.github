@@ -1,4 +1,4 @@
-<h1 align="center">CH2-PS054 | Eventh!ngs Bangkit Academy Capstone Team</h1>
+<h1 align="center">Eventh!ngs</h1>
 <h3 align="center">SME/UMKM Empowerement</h3>
 
 <p align="center">
